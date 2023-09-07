@@ -12,7 +12,7 @@
   - [Multicampus-HTML-CSS-JavaScript-Django-Code-Collection](https://github.com/LeeJeaHyuk/Multicampus-HTML-CSS-JavaScript-Django-Code-Collection)
 
 - 시각화 프로젝트
-  - [Multicampus-Visualization-Project](https://github.com/LeeJeaHyuk/Multicampus-Visualization-Project/blob/master/LeeJeaHyuk/README_LJH.md)
+  - [Multicampus-Visualization-Project](https://github.com/LeeJeaHyuk/Multicampus-Visualization-Project/blob/master/LeeJeaHyuk/README.md)
 
 - 빅데이터 활용
   - [ML-DL-Course-Code-Archive](https://github.com/LeeJeaHyuk/Multicampus-ML-DL-Course-Code-Archive)
